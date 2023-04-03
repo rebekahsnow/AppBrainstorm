@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppIdeas</string>
+    <string name="welcome">Top secret app ideas...</string>
+    <string name="view">View</string>
+    <string name="idea_title">Idea #n</string>
+    <string name="next_button">></string>
+    <string name="idea1_text">Photographer finder WebApp</string>
+    <string name="idea2_text">Tic Tac Toe Android App</string>
+    <string name="idea3_text">Parking spot finder for UTU</string>
+    <string name="new_button">+</string>
+    <string name="save">Save Idea</string>
+    <string name="title">Now you will never forget your amazing app ideas!</string>
+    <string name="empty_toast">Your input was empty!</string>
+    <string name="new_idea_toast">New idea added!</string>
+</resources>
